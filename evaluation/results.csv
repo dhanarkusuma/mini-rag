@@ -1,59 +1,60 @@
 question,expected,non_rag_answer,answer_k1_bge,answer_k1_e5,answer_k2_bge,answer_k2_e5,answer_k3_bge,answer_k3_e5
-Apakah ada fenomena langit merah di Indonesia akhir-akhir ini?,"Ya, Di Pandeglang (18/12/2025)","Ya, ada laporan mengenai fenomena langit merah di beberapa wilayah Indonesia akhir-akhir ini, terutama saat matahari terbit dan terbenam.
-","Yes, there was a red sky phenomenon in Indonesia on Thursday (18/12) evening.
-","Ya, ada fenomena alam langit merah di wilayah Pandeglang selatan yang terjadi pada Kamis (18/12) petang.
+Apakah ada fenomena langit merah di Indonesia akhir-akhir ini?,"Ya, Di Pandeglang (18/12/2025)","Ya, fenomena langit merah dilaporkan terjadi di beberapa wilayah Indonesia akhir-akhir ini, terutama saat matahari terbit dan terbenam.
+","Yes, there was a red sky phenomenon on Thursday (18/12) evening.
+","Ya, fenomena alam langit merah terjadi di wilayah Pandeglang selatan pada Kamis (18/12) petang.
 ","Sebagai informasi , fenomena alam langit merah di wilayah Pandeglang selatan terjadi pada Kamis ( 18/12 ) petang .
-","Ya, fenomena alam langit merah di wilayah Pandeglang selatan terjadi pada Kamis (18/12) petang.
-","Sebagai informasi , fenomena alam langit merah di wilayah Pandeglang selatan terjadi pada Kamis ( 18/12 ) petang .
-","Ya, fenomena alam langit merah di wilayah Pandeglang selatan terjadi pada Kamis (18/12) petang.
+","Ya, fenomena alam langit merah terjadi di wilayah Pandeglang selatan pada Kamis (18/12) petang.
+","Ya, fenomena alam langit merah terjadi di wilayah Pandeglang selatan pada Kamis (18/12) petang.
+","Masyarakat Kabupaten Pandeglang , Banten , dibuat heboh dengan kemunculan langit berwarna merah gelap beberapa hari lalu.
 "
-Apa faktor utama yang menyebabkan tingginya kasus penyakit kulit di lokasi pengungsian Sumatera Utara?,"Kondisi lingkungan pascabanjir, keterbatasan sanitasi, paparan air kotor, serta kepadatan di tempat pengungsian.","Sanitasi buruk, air bersih terbatas, dan kepadatan penduduk.
+Apa faktor utama yang menyebabkan tingginya kasus penyakit kulit di lokasi pengungsian Sumatera Utara?,"Kondisi lingkungan pascabanjir, keterbatasan sanitasi, paparan air kotor, serta kepadatan di tempat pengungsian.","Sanitasi buruk, air bersih terbatas, kebersihan diri kurang, dan kepadatan penduduk.
 ","Kondisi lingkungan pascabanjir dan keterbatasan sanitasi di lokasi pengungsian dinilai menjadi faktor utama.
 ","Kondisi lingkungan pascabanjir dan keterbatasan sanitasi di lokasi pengungsian dinilai menjadi faktor utama.
 ","Kondisi lingkungan pascabanjir dan keterbatasan sanitasi di lokasi pengungsian dinilai menjadi faktor utama tingginya kasus penyakit kulit di lokasi pengungsian Sumatera Utara.
 ","Kondisi lingkungan pascabanjir dan keterbatasan sanitasi di lokasi pengungsian dinilai menjadi faktor utama tingginya kasus penyakit kulit di lokasi pengungsian Sumatera Utara.
 ","Kondisi lingkungan pascabanjir dan keterbatasan sanitasi di lokasi pengungsian dinilai menjadi faktor utama tingginya kasus penyakit kulit di lokasi pengungsian Sumatera Utara.
-","Kondisi lingkungan pascabanjir dan keterbatasan sanitasi di lokasi pengungsian dinilai menjadi faktor utama tingginya kasus penyakit kulit di lokasi pengungsian Sumatera Utara.
+","Kondisi lingkungan pascabanjir dan keterbatasan sanitasi di lokasi pengungsian dinilai menjadi faktor utama penyebab tingginya kasus penyakit kulit di lokasi pengungsian Sumatera Utara.
 "
-Berapa total estimasi kerugian ekonomi akibat banjir dan longsor di Sumatera Utara menurut pemerintah provinsi setempat?,"Total estimasi kerugian mencapai Rp18,37 triliun.","Kerugian ekonomi akibat banjir dan longsor di Sumatera Utara diperkirakan mencapai Rp231,1 miliar.
+Berapa total estimasi kerugian ekonomi akibat banjir dan longsor di Sumatera Utara menurut pemerintah provinsi setempat?,"Total estimasi kerugian mencapai Rp18,37 triliun.","Estimasi kerugian ekonomi akibat banjir dan longsor di Sumatera Utara mencapai Rp253,4 miliar.
 ","Total estimasi kerugian akibat banjir dan tanah longsor di Sumatera Utara mencapai Rp18,37 triliun.
 ","Total estimasi kerugian akibat banjir dan tanah longsor di Sumatera Utara mencapai Rp18,37 triliun.
 ","Pemerintah Provinsi Sumatera Utara memperkirakan total kerugian akibat banjir dan tanah longsor mencapai Rp18,37 triliun.
+","Pemerintah Provinsi Sumatera Utara (Sumut) memperkirakan total kerugian akibat banjir dan tanah longsor mencapai Rp18,37 triliun.
 ","Pemerintah Provinsi Sumatera Utara memperkirakan total kerugian akibat banjir dan tanah longsor mencapai Rp18,37 triliun.
-","Pemerintah Provinsi Sumatera Utara memperkirakan total kerugian akibat banjir dan tanah longsor mencapai Rp18,37 triliun.
-","Pemerintah Provinsi Sumatera Utara memperkirakan total kerugian akibat banjir dan tanah longsor mencapai Rp18,37 triliun.
+","Pemerintah Provinsi Sumatera Utara (Sumut) memperkirakan total kerugian akibat banjir dan tanah longsor mencapai Rp18,37 triliun.
 "
-"Mengapa kebocoran data pada aplikasi ""Dewa Matel"" dianggap sebagai pelanggaran luar biasa oleh pengamat keamanan siber?","Karena data sensitif kendaraan dapat diakses secara bebas oleh orang awam tanpa pembatasan ketat, yang mengancam keamanan data pribadi.","Kebocoran data Dewa Matel dianggap pelanggaran luar biasa karena **potensi dampak dan sensitivitas data yang bocor, bisa berupa data pribadi pengguna yang sangat detail dan berpotensi disalahgunakan untuk penipuan, pemerasan, atau tindak kejahatan lainnya.** Selain itu, kebocoran ini merusak kepercayaan publik terhadap keamanan aplikasi dan platform tersebut.
-","Karena hanya dengan memasukkan nomor polisi kendaraan, pengguna dapat mengakses berbagai data sensitif, dan keberadaan aplikasi seperti Dewa Matel secara jelas melanggar Undang-Undang Perlindungan Data Pribadi (UU PDP).
+"Mengapa kebocoran data pada aplikasi ""Dewa Matel"" dianggap sebagai pelanggaran luar biasa oleh pengamat keamanan siber?","Karena data sensitif kendaraan dapat diakses secara bebas oleh orang awam tanpa pembatasan ketat, yang mengancam keamanan data pribadi.","Kebocoran data Dewa Matel dianggap pelanggaran luar biasa karena *kemungkinan data sensitif pengguna (misalnya, data finansial, data pribadi, lokasi) terpapar, berpotensi digunakan untuk penipuan, pencurian identitas, dan risiko keamanan lainnya yang signifikan.*
+","Karena dengan hanya memasukkan nomor polisi kendaraan, pengguna dapat mengakses berbagai data sensitif, dan pengamat keamanan siber Alfons Tanujaya menilai bahwa praktik tersebut bukan sekadar kelalaian, melainkan pelanggaran serius terhadap prinsip perlindungan data pribadi, serta melanggar Undang-Undang Perlindungan Data Pribadi (UU PDP).
 ","Information not found in the provided documents.
-","Pengamat keamanan siber Alfons Tanujaya menilai kebocoran data pada aplikasi Dewa Matel sebagai pelanggaran luar biasa karena data dapat diakses oleh orang awam.
-","Menurut pengamat keamanan siber Alfons Tanujaya, kebocoran data pada aplikasi ""Dewa Matel"" dianggap sebagai pelanggaran luar biasa karena aplikasi tersebut dapat diakses oleh orang awam, dan ini melanggar prinsip perlindungan data pribadi.","Pengamat keamanan siber Alfons Tanujaya menilai kebocoran data pada aplikasi Dewa Matel sebagai pelanggaran luar biasa karena data dapat diakses oleh orang awam.
-","Menurut pengamat keamanan siber Alfons Tanujaya, kebocoran data pada aplikasi ""Dewa Matel"" dianggap sebagai pelanggaran luar biasa karena aplikasi tersebut dapat diakses oleh orang awam, dan ini melanggar prinsip perlindungan data pribadi."
-"Apa tujuan utama BRIN membangun Bandar Antariksa Nasional di Pulau Biak, Papua?","Untuk meningkatkan kemandirian dan ekonomi antariksa Indonesia, serta sejalan dengan visi Indonesia Emas 2045.","BRIN membangun Bandar Antariksa Nasional di Pulau Biak, Papua untuk **meningkatkan kemandirian Indonesia dalam akses ke antariksa, mendukung penelitian dan pengembangan teknologi antariksa, serta mendorong pertumbuhan ekonomi lokal.**
+","Pengamat keamanan siber Alfons Tanujaya menilai kebocoran data pada aplikasi Dewa Matel sebagai pelanggaran luar biasa karena data bisa diakses oleh orang awam, dan hal ini melanggar Undang-Undang Perlindungan Data Pribadi (UU PDP).
+","Menurut pengamat keamanan siber Alfons Tanujaya, keberadaan aplikasi seperti Dewa Matel secara jelas melanggar Undang-Undang Perlindungan Data Pribadi (UU PDP). Praktik tersebut bukan sekadar kelalaian, melainkan pelanggaran serius terhadap prinsip perlindungan data pribadi karena data dapat diakses oleh orang awam hanya dengan memasukkan nomor polisi kendaraan.
+","Menurut pengamat keamanan siber Alfons Tanujaya, kebocoran data pada aplikasi ""Dewa Matel"" dianggap sebagai pelanggaran luar biasa karena aplikasi tersebut dapat diakses oleh orang awam, padahal penggunaan data pribadi seharusnya memiliki batasan ketat dan dasar hukum yang kuat.
+","Pengamat keamanan siber menilai kebocoran data pada aplikasi ""Dewa Matel"" sebagai pelanggaran luar biasa karena aplikasi ini dapat diunduh dan digunakan tanpa pembatasan ketat, serta memungkinkan pengguna mengakses berbagai data sensitif hanya dengan memasukkan nomor polisi kendaraan."
+"Apa tujuan utama BRIN membangun Bandar Antariksa Nasional di Pulau Biak, Papua?","Untuk meningkatkan kemandirian dan ekonomi antariksa Indonesia, serta sejalan dengan visi Indonesia Emas 2045.","BRIN membangun Bandar Antariksa Nasional di Biak untuk meningkatkan kemandirian Indonesia dalam teknologi peluncuran satelit dan roket, serta mendukung kegiatan penelitian dan pengembangan antariksa.
 ","Proyek ini bertujuan meningkatkan kemandirian dan ekonomi antariksa Indonesia.
 ","Proyek ini bertujuan meningkatkan kemandirian dan ekonomi antariksa Indonesia.
-","Tujuan utama pembangunan Bandar Antariksa Nasional di Pulau Biak, Papua adalah untuk meningkatkan kemandirian dan ekonomi antariksa Indonesia, serta memperkuat posisi Indonesia di tingkat global sejalan dengan visi Indonesia Emas 2045 dalam pengembangan ekonomi antariksa, lingkungan antariksa, dan keamanan antariksa.
-","Tujuan utama pembangunan Bandar Antariksa Nasional di Pulau Biak, Papua adalah untuk meningkatkan kemandirian dan ekonomi antariksa Indonesia. Pembangunan ini juga merupakan amanah strategis negara untuk memperkuat kemandirian Indonesia dalam akses ke antariksa.
-","Tujuan utama pembangunan Bandar Antariksa Nasional di Pulau Biak, Papua adalah untuk meningkatkan kemandirian dan ekonomi antariksa Indonesia, serta memperkuat posisi Indonesia di tingkat global sejalan dengan visi Indonesia Emas 2045 dalam pengembangan ekonomi antariksa, lingkungan antariksa, dan keamanan antariksa.
-","Tujuan utama pembangunan Bandar Antariksa Nasional di Pulau Biak, Papua adalah untuk meningkatkan kemandirian dan ekonomi antariksa Indonesia. Pembangunan ini juga merupakan amanah strategis negara untuk memperkuat kemandirian Indonesia dalam akses ke antariksa.
+","BRIN membangun Bandar Antariksa Nasional di Pulau Biak, Papua bertujuan untuk meningkatkan kemandirian dan ekonomi antariksa Indonesia, serta memperkuat posisi Indonesia di tingkat global. Pembangunan ini sejalan dengan visi Indonesia Emas 2045, khususnya dalam pengembangan ekonomi antariksa, lingkungan antariksa, dan keamanan antariksa.
+","Tujuan utama pembangunan Bandar Antariksa Nasional di Pulau Biak, Papua adalah untuk meningkatkan kemandirian dan ekonomi antariksa Indonesia serta memperkuat kemandirian Indonesia dalam akses ke antariksa.
+","Tujuan utama pembangunan Bandar Antariksa Nasional di Pulau Biak, Papua adalah untuk meningkatkan kemandirian dan ekonomi antariksa Indonesia. Pembangunan ini sejalan dengan visi Indonesia Emas 2045, khususnya dalam pengembangan ekonomi antariksa, lingkungan antariksa, dan keamanan antariksa, serta diharapkan mampu memperkuat posisi Indonesia di tingkat global. Selain itu, pembangunan Bandar Antariksa di Biak akan memberikan multiplier effect bagi daerah, mulai dari penciptaan lapangan kerja, pertumbuhan ekonomi, hingga penguatan diplomasi antariksa.
+","Tujuan utama pembangunan Bandar Antariksa Nasional di Pulau Biak, Papua adalah untuk meningkatkan kemandirian dan ekonomi antariksa Indonesia, serta memperkuat kemandirian Indonesia dalam akses ke antariksa. Pembangunan ini juga sejalan dengan visi Indonesia Emas 2045, khususnya dalam pengembangan ekonomi antariksa, lingkungan antariksa, dan memberikan multiplier effect bagi daerah, mulai dari penciptaan lapangan kerja, pertumbuhan ekonomi, hingga penguatan diplomasi antariksa.
 "
-Berapa panjang jembatan yang direncanakan akan menghubungkan Melaka (Malaysia) dengan Dumai (Sumatera) dan kapan pembangunannya dimulai?,"Jembatan tersebut direncanakan sepanjang 47,7 km (bagian dari jalur 120 km) dan pembangunannya direncanakan mulai pada Januari 2026.","Panjang jembatan yang direncanakan sekitar 48 km dan belum ada tanggal pasti kapan pembangunannya akan dimulai.
-","Panjang jembatan yang direncanakan adalah 47,7 km dan pembangunannya akan dimulai pada Januari 2026.
+Berapa panjang jembatan yang direncanakan akan menghubungkan Melaka (Malaysia) dengan Dumai (Sumatera) dan kapan pembangunannya dimulai?,"Jembatan tersebut direncanakan sepanjang 47,7 km (bagian dari jalur 120 km) dan pembangunannya direncanakan mulai pada Januari 2026.","Panjang jembatan yang direncanakan sekitar 48 km dan belum ada tanggal pasti kapan pembangunannya dimulai.
+","Jembatan yang direncanakan akan menghubungkan Melaka ke Dumai memiliki panjang 47,7 km dan pembangunannya akan dimulai pada Januari 2026.
+","Jembatan yang direncanakan akan menghubungkan Melaka dengan Dumai memiliki panjang 47,7 km dan pembangunannya akan dimulai pada Januari 2026.
+","Jembatan yang direncanakan akan menghubungkan Melaka (Malaysia) dengan Dumai (Sumatera) memiliki panjang 47,7 km dan pembangunannya akan dimulai pada Januari 2026.
+","Jembatan tersebut akan dibangun sepanjang 47,7 km dan pembangunannya akan dimulai pada Januari 2026.
 ","Jembatan yang direncanakan akan menghubungkan Melaka (Malaysia) dengan Dumai (Sumatera) memiliki panjang 47,7 km dan pembangunannya akan dimulai pada Januari 2026.
 ","Jembatan itu akan dibangun sepanjang 47,7 km dan pembangunannya akan dimulai pada Januari 2026.
-","Jembatan yang direncanakan akan menghubungkan Melaka (Malaysia) dengan Dumai (Sumatera) memiliki panjang 47,7 km dan pembangunannya akan dimulai pada Januari 2026.
-","Jembatan itu akan dibangun sepanjang 47,7 km dan pembangunannya akan dimulai pada Januari 2026.
-","Jembatan yang direncanakan akan menghubungkan Melaka (Malaysia) dengan Dumai (Sumatera) memiliki panjang 47,7 km dan pembangunannya akan dimulai pada Januari 2026.
 "
-Apa alasan Ahok menolak rencana penanaman sawit di hutan Papua?,Karena ia ingin menjaga keberlangsungan flora dan fauna di Papua agar tetap memiliki tempat untuk hidup.,"Ahok menolak rencana penanaman sawit di hutan Papua karena khawatir akan merusak lingkungan dan hak-hak masyarakat adat.
-","Ahok menentang rencana pembukaan sawit skala besar di Papua karena menilai perluasan penanaman sawit demi mewujudkan swasembada energi, tak perlu dilakukan dengan cara membuka lahan baru di Papua.
+Apa alasan Ahok menolak rencana penanaman sawit di hutan Papua?,Karena ia ingin menjaga keberlangsungan flora dan fauna di Papua agar tetap memiliki tempat untuk hidup.,"Ahok menolak rencana penanaman sawit di hutan Papua karena kekhawatiran akan kerusakan lingkungan, hilangnya hak adat masyarakat setempat, dan potensi konflik sosial.
 ","Ahok menentang rencana pembukaan sawit skala besar di Papua.
-","Ahok menentang rencana pembukaan sawit skala besar di Papua karena menurutnya, mengganti hutan hujan (rainforest) dengan sawit sebagai tanaman monokultur akan menghilangkan flora dan fauna, serta dapat membawa bencana seperti yang terjadi di Sumatera.
-","Ahok menentang rencana pembukaan sawit skala besar di Papua karena menurutnya, mengganti hutan hujan atau rainforest dengan kebun sawit akan membawa bencana seperti di Sumatera, serta akan berdampak pada flora dan fauna.
-","Ahok menentang rencana pembukaan sawit skala besar di Papua karena menurutnya, mengganti hutan hujan (rainforest) dengan sawit sebagai tanaman monokultur akan menghilangkan flora dan fauna, serta dapat membawa bencana seperti yang terjadi di Sumatera.
-","Ahok menentang rencana pembukaan sawit skala besar di Papua karena menurutnya, mengganti hutan hujan atau rainforest dengan kebun sawit akan membawa bencana seperti di Sumatera, serta akan berdampak pada flora dan fauna.
+","Ahok menentang rencana pembukaan sawit skala besar di Papua karena perluasan penanaman sawit demi mewujudkan swasembada energi , tak perlu dilakukan dengan cara membuka lahan baru di Papua.
+","Ahok menentang rencana pembukaan sawit skala besar di Papua karena menurutnya, mengubah hutan hujan menjadi tanaman monokultur seperti sawit akan berdampak buruk bagi flora dan fauna, serta dapat membawa bencana seperti yang terjadi di Sumatera.
+","Ahok menentang rencana pembukaan sawit skala besar di Papua karena menurutnya, mengubah hutan hujan menjadi tanaman monokultur seperti sawit akan menghilangkan flora dan fauna serta dapat membawa bencana seperti yang terjadi di Sumatera.
+","Ahok menentang rencana penanaman sawit di hutan Papua karena menurutnya, jika hutan hujan diubah menjadi sawit yang merupakan tanaman monokultur, flora dan fauna tidak akan bisa hidup dan hal ini akan membawa bencana seperti yang terjadi di Sumatera.
+","Ahok menentang rencana pembukaan sawit skala besar di Papua karena menurutnya, mengubah hutan hujan menjadi sawit yang merupakan tanaman monokultur akan menghilangkan habitat flora dan fauna, serta dapat membawa bencana seperti yang terjadi di Sumatera.
 "
-Sebutkan jenis bantuan logistik yang dikirimkan oleh Siti Nurhaliza melalui Yayasan Nurjiwa untuk korban banjir di Aceh!,"Beras, minyak goreng, baju, selimut, biskuit, susu, popok, air mineral, sarden, mi instan, genset, dan obat-obatan.","Siti Nurhaliza mengirimkan bantuan berupa keperluan bayi, wanita, dan makanan kering melalui Yayasan Nurjiwa.
+Sebutkan jenis bantuan logistik yang dikirimkan oleh Siti Nurhaliza melalui Yayasan Nurjiwa untuk korban banjir di Aceh!,"Beras, minyak goreng, baju, selimut, biskuit, susu, popok, air mineral, sarden, mi instan, genset, dan obat-obatan.","Bantuan logistik dari Yayasan Nurjiwa meliputi makanan, air bersih, pakaian, selimut, perlengkapan kebersihan diri, dan kebutuhan bayi.
 ","Bantuan berupa beras, minyak goreng, baju pria wanita, selimut, biskuit, susu, popok, air mineral, sarden, mi instan, genset, dan obat-obatan.
 ","Bantuan berupa beras, minyak goreng, baju pria wanita, selimut, biskuit, susu, popok, air mineral, sarden, mi instan, genset, dan obat-obatan.
 ","Bantuan berupa beras, minyak goreng, baju pria wanita, selimut, biskuit, susu, popok, air mineral, sarden, mi instan, genset, dan obat-obatan.
@@ -61,71 +62,86 @@ Sebutkan jenis bantuan logistik yang dikirimkan oleh Siti Nurhaliza melalui Yaya
 ","Bantuan berupa beras, minyak goreng, baju pria wanita, selimut, biskuit, susu, popok, air mineral, sarden, mi instan, genset, dan obat-obatan.
 ","Bantuan berupa beras, minyak goreng, baju pria wanita, selimut, biskuit, susu, popok, air mineral, sarden, mi instan, genset, dan obat-obatan.
 "
-Kabupaten/Kota mana saja di Sumatera Utara yang mengalami kerusakan paling parah akibat bencana banjir dan longsor?,"Tapanuli Selatan, Tapanuli Tengah, Tapanuli Utara, Mandailing Natal, Humbang Hasundutan, Langkat, dan Kota Sibolga.","Kabupaten Mandailing Natal (Madina) adalah wilayah di Sumatera Utara yang mengalami kerusakan paling parah akibat banjir dan longsor.
-","Empat kabupaten di Sumatera Utara yang dilanda bencana banjir dan tanah longsor adalah Sibolga, Tapanuli Utara, Tapanuli Tengah, dan Tapanuli Selatan.
+Kabupaten/Kota mana saja di Sumatera Utara yang mengalami kerusakan paling parah akibat bencana banjir dan longsor?,"Tapanuli Selatan, Tapanuli Tengah, Tapanuli Utara, Mandailing Natal, Humbang Hasundutan, Langkat, dan Kota Sibolga.","Kabupaten Mandailing Natal (Madina) dan Kota Sibolga.
+","Empat kabupaten di Sumatera Utara (Sumut) dilanda bencana banjir dan tanah longsor yakni Sibolga, Tapanuli Utara, Tapanuli Tengah dan Tapanuli Selatan.
 ","Empat kabupaten di Sumatera Utara yang dilanda bencana banjir dan tanah longsor adalah Sibolga, Tapanuli Utara, Tapanuli Tengah dan Tapanuli Selatan.
 ","Enam daerah yang rusak paling parah, yakni Kabupaten Tapanuli Selatan, Tapanuli Tengah, Tapanuli Utara, Mandailing Natal, Humbang Hasundutan, Langkat, serta Kota Sibolga.
-","Kabupaten/Kota di Sumatera Utara yang mengalami kerusakan paling parah akibat bencana adalah Kabupaten Tapanuli Selatan, Tapanuli Tengah, Tapanuli Utara, Mandailing Natal, Humbang Hasundutan, Langkat, serta Kota Sibolga.
+","Kabupaten/Kota yang mengalami kerusakan paling parah adalah Kabupaten Tapanuli Selatan, Tapanuli Tengah, Tapanuli Utara, Mandailing Natal, Humbang Hasundutan, Langkat, serta Kota Sibolga.
+","Kabupaten/Kota yang mengalami kerusakan paling parah adalah Kabupaten Tapanuli Selatan, Tapanuli Tengah, Tapanuli Utara, Mandailing Natal, Humbang Hasundutan, Langkat, serta Kota Sibolga.
 ","Enam daerah yang rusak paling parah, yakni Kabupaten Tapanuli Selatan, Tapanuli Tengah, Tapanuli Utara, Mandailing Natal, Humbang Hasundutan, Langkat, serta Kota Sibolga.
-","Kabupaten/Kota di Sumatera Utara yang mengalami kerusakan paling parah akibat bencana adalah Kabupaten Tapanuli Selatan, Tapanuli Tengah, Tapanuli Utara, Mandailing Natal, Humbang Hasundutan, Langkat, serta Kota Sibolga.
 "
-Perjanjian perdagangan apa yang baru saja ditandatangani Indonesia dengan negara-negara yang dipimpin Rusia?,"Perjanjian Perdagangan Bebas (FTA) dengan Eurasian Economic Union (EAEU) yang mencakup Rusia, Armenia, Belarus, Kazakhstan, dan Kyrgyzstan.","Indonesia baru-baru ini menandatangani perjanjian perdagangan dengan EAEU (Uni Ekonomi Eurasia), yang mencakup Rusia, Armenia, Belarusia, Kazakhstan, dan Kirgistan. Perjanjian ini disebut Indonesia-Eurasian Economic Union Free Trade Agreement (IEAEU FTA).
+Perjanjian perdagangan apa yang baru saja ditandatangani Indonesia dengan negara-negara yang dipimpin Rusia?,"Perjanjian Perdagangan Bebas (FTA) dengan Eurasian Economic Union (EAEU) yang mencakup Rusia, Armenia, Belarus, Kazakhstan, dan Kyrgyzstan.","Indonesia baru saja menandatangani protokol untuk meningkatkan perdagangan dengan **Uni Ekonomi Eurasia (EAEU)**, sebuah blok ekonomi yang dipimpin oleh Rusia.
 ","Indonesia and the Russia-led Eurasian Economic Union have signed a free trade agreement.
+","Indonesia and the Russia-led Eurasian Economic Union have signed a free trade agreement.
+","Indonesia dan Uni Ekonomi Eurasia yang dipimpin Rusia telah menandatangani perjanjian perdagangan bebas.
 ","Indonesia dan Uni Ekonomi Eurasia yang dipimpin Rusia baru saja menandatangani perjanjian perdagangan bebas.
-","Indonesia dan Uni Ekonomi Eurasia yang dipimpin Rusia telah menandatangani perjanjian perdagangan bebas (FTA).
 ","Indonesia dan Uni Ekonomi Eurasia yang dipimpin Rusia telah menandatangani perjanjian perdagangan bebas.
-","Indonesia dan Uni Ekonomi Eurasia yang dipimpin Rusia telah menandatangani perjanjian perdagangan bebas (FTA).
-","Indonesia dan Uni Ekonomi Eurasia yang dipimpin Rusia telah menandatangani perjanjian perdagangan bebas.
+","Indonesia and the Russia-led Eurasian Economic Union have signed a free trade agreement aimed at increasing two-way trade.
 "
-Berapa jumlah total pengungsi akibat banjir di Sumatra hingga tanggal 22 Desember 2025 berdasarkan data yang ada?,"Terdapat 502.570 orang mengungsi, dengan jumlah korban meninggal mencapai 1.106 jiwa.","Tidak ada data mengenai jumlah total pengungsi akibat banjir di Sumatra hingga tanggal 22 Desember 2025 karena tanggal tersebut belum terjadi.
-",Information not found in the provided documents.,Information not found in the provided documents.,Information not found in the provided documents.,"Information not found in the provided documents.
-",Information not found in the provided documents.,"Information not found in the provided documents.
-"
-Apa rencana Megawati Soekarnoputri untuk membantu siswa korban banjir di Sumatra yang sekolahnya rusak?,Megawati berencana membangun sekolah sementara dari tenda agar anak-anak didik tetap bisa belajar dan tidak ketinggalan pelajaran meskipun sekolah mereka hancur.,"Sebagai Ketua Umum PDI Perjuangan, Megawati Soekarnoputri kemungkinan akan menginstruksikan kadernya di Sumatra dan pusat untuk memberikan bantuan logistik, fasilitas belajar sementara, dan dukungan psikososial kepada siswa korban banjir. PDI Perjuangan juga bisa menggalang dana atau bekerjasama dengan pihak lain untuk membangun kembali sekolah yang rusak.
+Berapa jumlah total pengungsi akibat banjir di Sumatra hingga tanggal 22 Desember 2025 berdasarkan data yang ada?,"Terdapat 502.570 orang mengungsi, dengan jumlah korban meninggal mencapai 1.106 jiwa.","Saya tidak memiliki akses ke data spesifik dan terkini tentang jumlah pengungsi akibat banjir di Sumatra hingga 22 Desember 2025. Data ini akan terus berubah dan tergantung pada berbagai sumber berita dan laporan resmi dari lembaga terkait.
+",Information not found in the provided documents.,Information not found in the provided documents.,Information not found in the provided documents.,Information not found in the provided documents.,"Informasi mengenai jumlah total pengungsi hingga tanggal 22 Desember 2025 tidak ditemukan dalam dokumen yang disediakan. Dokumen hanya memberikan informasi mengenai jumlah pengungsi yang berjumlah 588.226 orang, yang berkurang dari hari sebelumnya yang berjumlah 606.040 orang.
+",Information not found in the provided documents.
+Apa rencana Megawati Soekarnoputri untuk membantu siswa korban banjir di Sumatra yang sekolahnya rusak?,Megawati berencana membangun sekolah sementara dari tenda agar anak-anak didik tetap bisa belajar dan tidak ketinggalan pelajaran meskipun sekolah mereka hancur.,"Sebagai seorang politisi, Megawati Soekarnoputri kemungkinan akan:
+
+*   **Mendorong pemerintah dan partai politiknya (PDIP) untuk memberikan bantuan logistik, dana, dan dukungan psikologis kepada siswa dan sekolah yang terdampak banjir.**
+*   **Mengadvokasi perbaikan dan pembangunan kembali infrastruktur sekolah yang rusak.**
+*   **Memobilisasi relawan dan sumber daya untuk membantu proses pemulihan.**
+
+Peran spesifiknya akan bergantung pada skala bencana dan kapasitas sumber daya yang tersedia.
 ","Megawati Soekarnoputri akan membangun sekolah sementara dari tenda bagi siswa korban banjir Sumatra.
+","Megawati Soekarnoputri mengaku akan membangun sekolah sementara dari tenda bagi anak atau siswa yang menjadi korban banjir Sumatra.
+","Megawati Soekarnoputri akan membangun sekolah sementara dari tenda bagi anak atau siswa yang menjadi korban banjir Sumatra.
+","Megawati Soekarnoputri akan membangun sekolah sementara dari tenda bagi anak atau siswa yang menjadi korban banjir Sumatra.
+","Megawati Soekarnoputri akan membangun sekolah sementara dari tenda bagi anak atau siswa yang menjadi korban banjir Sumatra.
 ","Megawati Soekarnoputri akan membangun sekolah sementara dari tenda bagi siswa yang menjadi korban banjir Sumatra.
-","Megawati Soekarnoputri akan membangun sekolah sementara dari tenda bagi anak atau siswa yang menjadi korban banjir Sumatra.
-","Megawati Soekarnoputri akan membangun sekolah sementara dari tenda bagi anak atau siswa yang menjadi korban banjir Sumatra.
-","Megawati Soekarnoputri akan membangun sekolah sementara dari tenda bagi anak atau siswa yang menjadi korban banjir Sumatra.
-","Megawati Soekarnoputri akan membangun sekolah sementara dari tenda bagi anak atau siswa yang menjadi korban banjir Sumatra.
 "
-"Berapa perkiraan biaya pembangunan bendungan raksasa China di Sungai Yarlung Zangbo, Tibet?","Proyek tersebut diperkirakan menghabiskan biaya sekitar 1,2 triliun yuan atau setara dengan Rp2.832 triliun.","Perkiraan biaya pembangunan bendungan raksasa di Sungai Yarlung Zangbo bervariasi, namun diperkirakan **mencapai miliaran dolar AS**. Angka pastinya tidak dipublikasikan secara terbuka.
+"Berapa perkiraan biaya pembangunan bendungan raksasa China di Sungai Yarlung Zangbo, Tibet?","Proyek tersebut diperkirakan menghabiskan biaya sekitar 1,2 triliun yuan atau setara dengan Rp2.832 triliun.","Perkiraan biaya pembangunan bendungan raksasa China di Sungai Yarlung Zangbo bervariasi, tetapi diperkirakan mencapai **miliaran dolar AS**, dengan beberapa perkiraan mencapai **$30 miliar USD atau lebih.**
 ","Information not found in the provided documents.
 ","Information not found in the provided documents.
 ",Information not found in the provided documents.,Information not found in the provided documents.,Information not found in the provided documents.,Information not found in the provided documents.
-Berapa jumlah unit hunian sementara (huntara) yang disiapkan pemerintah untuk pengungsi di Provinsi Aceh?,Pemerintah menyiapkan sebanyak 36.328 unit huntara untuk pengungsi di Provinsi Aceh.,"Pemerintah menyiapkan 185 unit hunian sementara (huntara) untuk pengungsi di Provinsi Aceh.
-","Di Aceh, pemerintah menyiapkan 36.328 unit hunian sementara (huntara).
+Berapa jumlah unit hunian sementara (huntara) yang disiapkan pemerintah untuk pengungsi di Provinsi Aceh?,Pemerintah menyiapkan sebanyak 36.328 unit huntara untuk pengungsi di Provinsi Aceh.,"Pemerintah menyiapkan 185 unit huntara di Provinsi Aceh.
 ","Di Aceh mencapai 36.328 unit.
-","Pemerintah menyiapkan 36.328 unit hunian sementara di Aceh.
+","Di Aceh mencapai 36.328 unit.
 ","Pemerintah menyiapkan 36.328 unit hunian sementara di Provinsi Aceh.
-","Pemerintah menyiapkan 36.328 unit hunian sementara di Aceh.
 ","Pemerintah menyiapkan 36.328 unit hunian sementara di Provinsi Aceh.
+","Pemerintah menyiapkan 36.328 unit hunian sementara (huntara) untuk pengungsi di Provinsi Aceh.
+","Pemerintah menyiapkan 36.328 unit hunian sementara (huntara) untuk pengungsi di Provinsi Aceh.
 "
 Apa yang akan dilakukan Pemerintah Kabupaten Aceh Tengah terhadap warga Desa Kutereje yang hilang diterjang banjir?,Pemkab Aceh Tengah akan merelokasi masyarakat Desa Kutereje ke lokasi yang lebih aman dan layak karena kondisi desa yang lama sudah hilang tak bersisa.,"Pemerintah Kabupaten Aceh Tengah akan melakukan upaya pencarian dan penyelamatan terhadap warga Desa Kutereje yang hilang akibat banjir.
+","Pemerintah Kabupaten Aceh Tengah bakal merelokasi masyarakat kampung (Desa) Kutereje di Kecamatan Linge yang kini hilang tak bersisa setelah diterjang banjir bandang pada akhir November 2025 lalu.
 ","Pemerintah Kabupaten Aceh Tengah bakal merelokasi masyarakat kampung (Desa) Kutereje.
-","Pemerintah Kabupaten Aceh Tengah bakal merelokasi masyarakat kampung (Desa) Kutereje.
-","Pemerintah Kabupaten (Pemkab) Aceh Tengah bakal merelokasi masyarakat kampung (Desa) Kutereje.
-","Pemerintah Kabupaten (Pemkab) Aceh Tengah bakal merelokasi masyarakat kampung (Desa) Kutereje.
-","Pemerintah Kabupaten (Pemkab) Aceh Tengah bakal merelokasi masyarakat kampung (Desa) Kutereje.
-","Pemerintah Kabupaten (Pemkab) Aceh Tengah bakal merelokasi masyarakat kampung (Desa) Kutereje.
+","Pemerintah Kabupaten (Pemkab) Aceh Tengah akan merelokasi masyarakat kampung (Desa) Kutereje yang hilang tak bersisa setelah diterjang banjir bandang pada akhir November 2025 lalu ke lokasi yang lebih aman dan layak.
+","Pemerintah Kabupaten Aceh Tengah akan merelokasi masyarakat Desa Kutereje ke lokasi yang lebih aman dan layak.
+","Pemerintah Kabupaten Aceh Tengah akan merelokasi masyarakat Desa Kutereje ke lokasi yang lebih aman dan layak. Pemerintah daerah sedang menyiapkan lahan seluas 35.500 meter persegi untuk relokasi.
+","Pemerintah Kabupaten (Pemkab) Aceh Tengah akan merelokasi masyarakat kampung (Desa) Kutereje ke lokasi yang lebih aman dan layak. Pemerintah daerah menyiapkan lahan seluas 35.500 meter persegi untuk relokasi.
 "
-Apa penjelasan ilmiah BMKG mengenai fenomena langit merah yang terjadi di Pandeglang?,"Fenomena tersebut adalah fenomena optik atmosfer yang disebut Hamburan Rayleigh, yang terjadi karena pembiasan cahaya matahari saat posisi rendah (menjelang terbenam)","BMKG menjelaskan bahwa fenomena langit merah di Pandeglang disebabkan oleh pembiasan dan hamburan cahaya matahari oleh partikel atmosfer (aerosol) saat matahari terbit atau terbenam. Intensitas warna merah tergantung pada jumlah dan jenis partikel di atmosfer. Tidak ada indikasi fenomena berbahaya atau terkait gempa.
+Apa penjelasan ilmiah BMKG mengenai fenomena langit merah yang terjadi di Pandeglang?,"Fenomena tersebut adalah fenomena optik atmosfer yang disebut Hamburan Rayleigh, yang terjadi karena pembiasan cahaya matahari saat posisi rendah (menjelang terbenam)","BMKG menjelaskan fenomena langit merah di Pandeglang disebabkan oleh pembiasan dan hamburan cahaya matahari oleh partikel debu dan polutan di atmosfer, terutama saat matahari terbit atau terbenam. Sudut datang cahaya matahari yang rendah menyebabkan cahaya biru dihamburkan lebih banyak, sehingga cahaya merah dengan panjang gelombang lebih panjang lebih dominan terlihat.
 ","BMKG menyebut fenomena langit merah di Pandeglang tidak ada kaitannya dengan tanda-tanda potensi bencana alam. Kejadian tersebut tidak mencirikan akan terjadinya bencana alam.
-","Kepala Balai Besar Meteorologi , Klimatologi , dan Geofisika Wilayah II Banten , Hartanto , mengatakan langit berwarna merah merupakan fenomena optik atmosfer.
-","BMKG menyebutkan kemunculan warna merah yang menghias langit dipengaruhi konsentrasi uap air yang tinggi atau partikel aerosol (debu/polutan) yang melayang di udara. Saat itu, wilayah Pandeglang sedang diguyur hujan yang memperkuat efek pantulan warna merah tersebut pada awan-awan di sekitarnya.","Menurut BMKG, langit berwarna merah merupakan fenomena optik atmosfer atau hamburan rayleigh. Peristiwa itu alami atau biasa dan bisa terjadi karena pembiasan cahaya matahari saat berada di posisi rendah atau menjelang terbenam. Cahaya matahari harus menempuh jarak yang lebih jauh melalui atmosfer bumi untuk sampai ke mata, sehingga hanya warna dengan gelombang panjang seperti merah dan jingga yang mampu menembus atmosfer dan tertangkap oleh mata.
-","BMKG menyebutkan kemunculan warna merah yang menghias langit dipengaruhi konsentrasi uap air yang tinggi atau partikel aerosol (debu/polutan) yang melayang di udara. Saat itu, wilayah Pandeglang sedang diguyur hujan yang memperkuat efek pantulan warna merah tersebut pada awan-awan di sekitarnya.","Menurut BMKG, langit berwarna merah merupakan fenomena optik atmosfer atau hamburan rayleigh. Peristiwa itu alami atau biasa dan bisa terjadi karena pembiasan cahaya matahari saat berada di posisi rendah atau menjelang terbenam. Cahaya matahari harus menempuh jarak yang lebih jauh melalui atmosfer bumi untuk sampai ke mata, sehingga hanya warna dengan gelombang panjang seperti merah dan jingga yang mampu menembus atmosfer dan tertangkap oleh mata.
+","Kepala Balai Besar Meteorologi, Klimatologi, dan Geofisika Wilayah II Banten, Hartanto, mengatakan langit berwarna merah merupakan fenomena optik atmosfer.
+","BMKG menyebut fenomena itu tidak ada kaitannya dengan tanda-tanda potensi bencana alam. Kemunculan warna merah yang menghias langit dipengaruhi konsentrasi uap air yang tinggi atau partikel aerosol (debu/polutan) yang melayang di udara. Saat ini wilayah Pandeglang sedang diguyur hujan yang memperkuat efek pantulan warna merah tersebut pada awan-awan di sekitarnya.
+","Menurut BMKG, langit berwarna merah merupakan fenomena optik atmosfer atau hamburan rayleigh. Peristiwa itu alami atau biasa dan bisa terjadi karena pembiasan cahaya matahari saat berada di posisi rendah atau menjelang terbenam. Cahaya matahari harus menempuh jarak yang lebih jauh melalui atmosfer bumi untuk sampai ke mata, sehingga hanya warna dengan gelombang panjang seperti merah dan jingga yang mampu menembus atmosfer dan tertangkap oleh mata.
+","Menurut Kepala Balai Besar Meteorologi, Klimatologi, dan Geofisika Wilayah II Banten, Hartanto, langit berwarna merah merupakan fenomena optik atmosfer atau hamburan rayleigh. Peristiwa itu alami atau biasa terjadi karena pembiasan cahaya matahari saat berada di posisi rendah atau menjelang terbenam. Cahaya matahari harus menempuh jarak yang lebih jauh melalui atmosfer bumi untuk sampai ke mata, sehingga hanya warna dengan gelombang panjang seperti merah dan jingga yang mampu menembus atmosfer dan tertangkap oleh mata. Warna merah yang tampak sangat pekat biasanya dipengaruhi oleh tingginya konsentrasi uap air, atau adanya partikel aerosol di udara.","Menurut BMKG, langit berwarna merah merupakan fenomena optik atmosfer atau hamburan rayleigh. Peristiwa itu alami atau biasa dan bisa terjadi karena pembiasan cahaya matahari saat berada di posisi rendah atau menjelang terbenam. Cahaya matahari harus menempuh jarak yang lebih jauh melalui atmosfer bumi untuk sampai ke mata, sehingga hanya warna dengan gelombang panjang seperti merah dan jingga yang mampu menembus atmosfer dan tertangkap oleh mata.
 "
-Berapa jumlah korban meninggal dunia akibat banjir di Sumatra berdasarkan data hingga 22 Desember 2025?,Jumlah korban meninggal dunia mencapai 1.106 orang,"Saya tidak memiliki akses ke informasi real-time atau kejadian di masa depan, termasuk data korban banjir di Sumatra pada 22 Desember 2025.
-",Information not found in the provided documents.,Information not found in the provided documents.,Information not found in the provided documents.,Information not found in the provided documents.,Information not found in the provided documents.,Information not found in the provided documents.
-"Berdasarkan laporan perbandingan militer, apa keunggulan strategi Kamboja saat menghadapi Thailand?",Kamboja menunjukkan strategi bertahan melalui penggelaran roket artileri dalam jumlah besar serta penggunaan posisi geografis untuk taktik asimetris.,"Laporan perbandingan militer umumnya menunjukkan bahwa Kamboja tidak memiliki keunggulan strategis dibandingkan Thailand. Thailand memiliki militer yang lebih besar, lebih modern, dan lebih kuat secara keseluruhan.
+Berapa jumlah korban meninggal dunia akibat banjir di Sumatra berdasarkan data hingga 22 Desember 2025?,Jumlah korban meninggal dunia mencapai 1.106 orang,"Saya tidak dapat memberikan informasi tentang jumlah korban meninggal dunia akibat banjir di Sumatra hingga 22 Desember 2025, karena tanggal tersebut adalah di masa depan dan saya tidak memiliki akses ke kejadian di masa depan. Informasi tersebut belum ada.
+",Information not found in the provided documents.,Information not found in the provided documents.,Information not found in the provided documents.,"Information not found in the provided documents.
+","Information not found in the provided documents.
+","Jumlah korban meninggal dunia akibat banjir Sumatra hingga 22 Desember adalah 1.106 jiwa.
+"
+"Berdasarkan laporan perbandingan militer, apa keunggulan strategi Kamboja saat menghadapi Thailand?",Kamboja menunjukkan strategi bertahan melalui penggelaran roket artileri dalam jumlah besar serta penggunaan posisi geografis untuk taktik asimetris.,"Laporan perbandingan militer umumnya tidak menunjukkan Kamboja memiliki keunggulan strategi *secara keseluruhan* dibandingkan Thailand. Kekuatan militer Thailand biasanya lebih unggul. Namun, dalam konteks *tertentu* atau taktik *spesifik*, Kamboja mungkin menggunakan strategi seperti:
+
+*   **Taktik gerilya/asimetris:** Mengandalkan medan yang dikenal dan memanfaatkan kekuatan kecil untuk menyerang kelemahan Thailand.
+*   **Diplomasi/Aliansi:** Mencari dukungan internasional atau memanfaatkan hubungan dengan negara lain untuk menekan Thailand.
+*   **Fokus pada medan tertentu:** Memperkuat pertahanan di area strategis atau dipersengketakan.
+
+Penting untuk diingat bahwa keunggulan strategi sangat bergantung pada konteks spesifik dan skenario konflik. Laporan militer akan menganalisis kekuatan dan kelemahan relatif dalam berbagai aspek.
 ","Kamboja menunjukkan strategi bertahan melalui penggelaran roket artileri dalam jumlah besar serta penggunaan posisi geografis untuk taktik asimetris.
 ","Information not found in the provided documents.
-","Kamboja menunjukkan strategi bertahan melalui penggelaran roket artileri dalam jumlah besar serta penggunaan posisi geografis untuk taktik asimetris. Kamboja unggul dalam sistem roket artileri. Mereka mengoperasikan 463 peluncur roket multilaras (MLRS) seperti BM-21 Grad dan RM-70 buatan Uni Soviet dan Ceko. Roket-roket ini mampu meluncurkan peluru 122mm yang cepat dengan jangkauan hingga 20 kilometer, efektif untuk serangan psikologis dan penekanan wilayah luas.
-","Kamboja unggul dalam sistem roket artileri. Mereka mengoperasikan 463 peluncur roket multilaras (MLRS) seperti BM-21 Grad dan RM-70 buatan Uni Soviet dan Ceko yang mampu meluncurkan peluru 122mm yang cepat dengan jangkauan hingga 20 kilometer, efektif untuk serangan psikologis dan penekanan wilayah luas.
-","Kamboja menunjukkan strategi bertahan melalui penggelaran roket artileri dalam jumlah besar serta penggunaan posisi geografis untuk taktik asimetris. Kamboja unggul dalam sistem roket artileri. Mereka mengoperasikan 463 peluncur roket multilaras (MLRS) seperti BM-21 Grad dan RM-70 buatan Uni Soviet dan Ceko. Roket-roket ini mampu meluncurkan peluru 122mm yang cepat dengan jangkauan hingga 20 kilometer, efektif untuk serangan psikologis dan penekanan wilayah luas.
-","Kamboja unggul dalam sistem roket artileri. Mereka mengoperasikan 463 peluncur roket multilaras (MLRS) seperti BM-21 Grad dan RM-70 buatan Uni Soviet dan Ceko yang mampu meluncurkan peluru 122mm yang cepat dengan jangkauan hingga 20 kilometer, efektif untuk serangan psikologis dan penekanan wilayah luas.
+","Kamboja menunjukkan strategi bertahan melalui penggelaran roket artileri dalam jumlah besar serta penggunaan posisi geografis untuk taktik asimetris. Mereka mengoperasikan 463 peluncur roket multilaras (MLRS) seperti BM-21 Grad dan RM-70 buatan Uni Soviet dan Ceko yang mampu meluncurkan peluru 122mm yang cepat dengan jangkauan hingga 20 kilometer.
+","Kamboja unggul dalam sistem roket artileri. Mereka mengoperasikan 463 peluncur roket multilaras (MLRS) seperti BM-21 Grad dan RM-70 buatan Uni Soviet dan Ceko. Roket-roket ini mampu meluncurkan peluru 122mm yang cepat dengan jangkauan hingga 20 kilometer, efektif untuk serangan psikologis dan penekanan wilayah luas.
+","Kamboja menunjukkan strategi bertahan melalui penggelaran roket artileri dalam jumlah besar serta penggunaan posisi geografis untuk taktik asimetris.
+","Kamboja unggul dalam sistem roket artileri. Mereka mengoperasikan 463 peluncur roket multilaras (MLRS) seperti BM-21 Grad dan RM-70 buatan Uni Soviet dan Ceko. Roket-roket ini mampu meluncurkan peluru 122mm yang cepat dengan jangkauan hingga 20 kilometer, efektif untuk serangan psikologis dan penekanan wilayah luas.
 "
-Kapan pertemuan Komite Perbatasan Umum (GBC) antara Thailand dan Kamboja dijadwalkan untuk membahas gencatan senjata?,Pertemuan tersebut dijadwalkan berlangsung pada tanggal 24 Desember 2025.,"Pertemuan Komite Perbatasan Umum (GBC) antara Thailand dan Kamboja dijadwalkan pada **April 2011**.
+Kapan pertemuan Komite Perbatasan Umum (GBC) antara Thailand dan Kamboja dijadwalkan untuk membahas gencatan senjata?,Pertemuan tersebut dijadwalkan berlangsung pada tanggal 24 Desember 2025.,"Pertemuan Komite Perbatasan Umum (GBC) antara Thailand dan Kamboja untuk membahas gencatan senjata dijadwalkan pada **28 April 2011**.
 ","GBC akan mengadakan pertemuan pada 24 Desember 2025 untuk membahas implementasi dan verifikasi gencatan senjata.
 ","GBC akan mengadakan pertemuan pada 24 Desember 2025 untuk membahas implementasi.
 ","GBC akan mengadakan pertemuan pada 24 Desember 2025 untuk membahas implementasi dan verifikasi gencatan senjata.
@@ -134,14 +150,14 @@ Kapan pertemuan Komite Perbatasan Umum (GBC) antara Thailand dan Kamboja dijadwa
 ","GBC akan mengadakan pertemuan pada 24 Desember 2025 untuk membahas implementasi dan verifikasi gencatan senjata.
 "
 Negara mana saja yang merasa khawatir dengan pembangunan bendungan raksasa China di Tibet?,"India dan Bangladesh, karena mereka khawatir aliran air sungai dapat ditahan atau dialihkan dari wilayah mereka.","India dan Bangladesh.
-","India dan Bangladesh.
-","India dan Bangladesh.
+","India dan Bangladesh merasa khawatir dengan pembangunan bendungan raksasa China di Tibet.
+","India dan Bangladesh merasa khawatir dengan pembangunan bendungan raksasa China di Tibet.
 ","India dan Bangladesh merasa khawatir dengan pembangunan bendungan raksasa China di Tibet.
 ","India dan Bangladesh.
 ","India dan Bangladesh merasa khawatir dengan pembangunan bendungan raksasa China di Tibet.
-","India dan Bangladesh.
+","India dan Bangladesh merasa khawatir dengan pembangunan bendungan raksasa China di Tibet.
 "
-Berapa jumlah total warga Kamboja yang mengungsi dari daerah berisiko tinggi akibat bentrokan dengan Thailand di beberapa provinsi?,"Sebanyak 35.829 warga sipil Kamboja telah mengungsi dari Provinsi Preah Vihear, Oddar Meanchey, dan Pursat.","Sekitar 65.000 warga Kamboja mengungsi.
+Berapa jumlah total warga Kamboja yang mengungsi dari daerah berisiko tinggi akibat bentrokan dengan Thailand di beberapa provinsi?,"Sebanyak 35.829 warga sipil Kamboja telah mengungsi dari Provinsi Preah Vihear, Oddar Meanchey, dan Pursat.","Sekitar 40.000 warga Kamboja mengungsi akibat bentrokan dengan Thailand.
 ","Sebanyak 35.829 warga sipil Kamboja telah mengungsi dari daerah-daerah berisiko tinggi di Provinsi Preah Vihear, Oddar Meanchey, dan Pursat.
 ","Sebanyak 35.829 warga sipil Kamboja telah mengungsi dari daerah-daerah berisiko tinggi di Provinsi Preah Vihear, Oddar Meanchey, dan Pursat.
 ","Sebanyak 35.829 warga sipil Kamboja telah mengungsi dari daerah-daerah berisiko tinggi di Provinsi Preah Vihear, Oddar Meanchey, dan Pursat.
